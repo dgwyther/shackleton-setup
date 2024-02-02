@@ -3,6 +3,7 @@
 
 #python stuff
 *.pyc
+*.code-workspace
 
 #images
 *.png
