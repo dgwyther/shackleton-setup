@@ -1,11 +1,15 @@
 # temporary files, log files
 *.log
 
+#python stuff
+*.pyc
+
 #images
 *.png
 
 # big outputs
 *.nc
+*.nc.backup
 *.mat
 
 # Stupid Mac files
