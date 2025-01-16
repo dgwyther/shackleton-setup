@@ -1,6 +1,6 @@
 from .uvp_masks import uvp_masks
 import numpy as np
-import bathy_smoother
+import ext.bathy_smoother as bathy_smoother
 
 
 
